@@ -3,5 +3,23 @@ import os
 import csv
 
 # Set path for file
-csvpath = os.path.join("..", "Resources", "budget_data.csv")
+pybank_csv = os.path.join("..", "Resources", "budget_data.csv")
+
+# Total of months
+pybank_csv = sum("month")
+
+# Total net amount of "Profit/Losses" 
+pybank_csv = sum("profit", "losses")
+
+# The Average change in "Profit/Losses" between months 
+def average("Profit"):
+    length = len(numbers)
+def average("losses")
+    
+# The greates increase in profits (date and amount)
+
+
+
+# The greatest decrease in losses (date and amount)
+    
 

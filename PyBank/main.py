@@ -6,6 +6,7 @@ import csv
 pybank_csv = os.path.join("..", "Resources", "budget_data.csv")
 
 # Total of months
+def months()
 pybank_csv = sum("month")
 
 # Total net amount of "Profit/Losses" 
